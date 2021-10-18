@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>C:\stm8\iar_dianzhen\app\hc595.c</path>
+    <encoding>UTF-8</encoding>
+  </override>
+  <override>
+    <path>C:\stm8\iar_dianzhen\app\main.c</path>
+    <encoding>UTF-8</encoding>
+  </override>
+  <override>
+    <path>C:\stm8\iar_dianzhen\app\stm8s_conf.h</path>
+    <encoding>UTF-8</encoding>
+  </override>
+  <override>
+    <path>E:\STM8\iar_dianzhen\app\main.c</path>
+    <encoding>GB2312</encoding>
+  </override>
+</userOverrides>
+
+
